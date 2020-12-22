@@ -1,0 +1,13 @@
+#box {
+  width: 500px;
+  height: 300px;
+  overflow: scroll;
+  background: royalblue;
+  padding: 15px;
+}
+
+.item {
+  border: 2px dashed orange;
+  margin-bottom: 20px;
+  font-size: 2rem;
+}
